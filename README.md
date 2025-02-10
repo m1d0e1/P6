@@ -2,8 +2,6 @@
 
 A responsive portfolio website showcasing services, team members, testimonials, and projects with interactive elements.
 
-![Preview](imgs/preview.jpg)
-
 ## Features
 
 - **Responsive Design**: Works on all screen sizes using Bootstrap grid.
