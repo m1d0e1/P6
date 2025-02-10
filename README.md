@@ -22,7 +22,7 @@ A responsive portfolio website showcasing services, team members, testimonials, 
   - jQuery Nice Scroll
 - **Design**: Custom CSS animations & hover effects
 
-## Ensure file structure:
+## file structure:
    ```
    /css
      bootstrap.min.css
